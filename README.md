@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$R^4$
+![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
