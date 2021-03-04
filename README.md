@@ -1,19 +1,14 @@
-### Hi there 👋
-
-<!--
-**CheYHinSpark/CheYHinSpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![1](http://latex.codecogs.com/svg.latex?
-\int_a^bf(x)dx)
+┏━┯━┯━┯━┯━┯━┯━┯━┯━┯━┯━┯━┯━┯━┯━┓
+┃件│说│和│。│乐│儿│时│１│止│。│习│建│口│岁│我┃
+┃能│我│压│一│，│游│。│点│于│我│到│设│一│。│的┃
+┃找│很│力│觉│上│戏│睡│睡│浅│偶│晚│集│带│住│名┃
+┃到│不│留│到│了│，│前│，│尝│尔│上│团│，│在│字┃
+┃女│正│到│天│床│然│，│每│，│做│１│服│未│北│叫┃
+┃朋│常│第│亮│，│后│我│天│不│做│０│务│婚│京│吉┃
+┃友│。│二│，│很│听│可│都│会│模│点│。│。│西│良┃
+┃吗│请│天│总│久│２│能│睡│编│型│才│每│我│北│吉┃
+┃？│问│。│是│才│０│会│不│程│，│能│天│在│部│影┃
+┃　│这│医│把│能│分│玩│足│。│画│回│都│白│的│，┃
+┃　│个│生│疲│睡│钟│一│８│晚│画│宿│要│门│五│２┃
+┃　│条│都│劳│着│音│会│小│上│仅│舍│学│楼│道│３┃
+┗━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┛
